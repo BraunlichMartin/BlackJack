@@ -3,7 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "..\..\week 3 tues is 4-16-2019\lab 3\black jack user interface\BlackJack\BlackJack.csproj", "{3183D272-D8B9-4F0F-95C9-AF0B303315DB}"
+#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "..\..\week 3 tues is 4-16-2019\lab 3\black jack user interface\BlackJack\BlackJack.csproj", "{3183D272-D8B9-4F0F-95C9-AF0B303315DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "..\..\week 4 tues is 4-23-2019\Black Jack\BlackJack\BlackJack.csproj", "{3183D272-D8B9-4F0F-95C9-AF0B303315DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardClasses", "..\CardClasses\CardClasses.csproj", "{ECF1CED5-953E-4A6C-BE69-F7AB47EC0DAC}"
 EndProject
