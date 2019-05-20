@@ -1,0 +1,19 @@
+H:\spring2019\CS234N\Lab 3\BlackJackUIStart\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+H:\spring2019\CS234N\Lab 3\BlackJackUIStart\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+H:\spring2019\CS234N\Lab 3\StartAgain\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+H:\spring2019\CS234N\Lab 3\StartAgain\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+H:\spring2019\CS234N\Lab 3\StartAgain\BlackJack\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+H:\spring2019\CS234N\Lab 3\StartAgain\BlackJack\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+H:\spring2019\CS234N\Lab 3\StartAgain\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+H:\spring2019\CS234N\Lab 3\StartAgain\BlackJack\CardClasses\obj\Debug\CardClasses.pdb
+F:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\bin\Debug\CardClasses.dll
+F:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\bin\Debug\CardClasses.pdb
+F:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+F:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\obj\Debug\CardClasses.dll
+F:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\obj\Debug\CardClasses.pdb
+E:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\bin\Debug\CardClasses.dll
+E:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\bin\Debug\CardClasses.pdb
+E:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\obj\Debug\CardClasses.csprojAssemblyReference.cache
+E:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+E:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\obj\Debug\CardClasses.dll
+E:\spring 2019\C sharp CS234N\week 4 tues is 4-23-2019\CardClasses\obj\Debug\CardClasses.pdb
